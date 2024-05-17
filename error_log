@@ -1,0 +1,1 @@
+[08-May-2024 19:01:17 UTC] Cron reschedule event error for hook: litespeed_task_lqip, Error code: could_not_set, Error message: لا يمكن حفظ قائمة حدث مهام cron., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
